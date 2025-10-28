@@ -1,2 +1,16 @@
-python 3.13.0
-pip install -r requirements.txt# qr_generador
+# qr_generador
+
+* python 3.13.0
+* pip install -r requirements.txt
+
+## Dependencias
+* iniconfig==2.3.0
+* numpy==2.2.6
+* opencv-python==4.12.0.88
+* packaging==25.0
+* pillow==12.0.0
+* pluggy==1.6.0
+* Pygments==2.19.2
+* pytest==8.4.2
+* pyzbar==0.1.9
+* qrcode==8.2
